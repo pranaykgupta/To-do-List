@@ -16,7 +16,7 @@
 	<?php 
 	include 'connect.php';
 	?>
-	<h1>TO-DO LIST<i class="fas fa-plus"></i></h1>
+	<h1 style="border-radius:20px">TO-DO LIST<i class="fas fa-plus"></i></h1>
 		<input type="text" placeholder="Add New Todo" name="data"> 
 	
 <ul>
