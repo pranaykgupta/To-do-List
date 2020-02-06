@@ -2,7 +2,7 @@
 	$dbConnect = array(
 		'server' => 'localhost',
 		'user' => 'root',
-		'pass' => '',
+		'pass' => 'Psr2108#',
 		 'name' => 'todos');
 
 	$db = new mysqli(
